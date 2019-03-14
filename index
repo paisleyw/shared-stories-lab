@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" type="text/css" href="styles.css">
+<title>Shared Stories Lab</title>
+
+</head>
+<body style="background-color:powderblue;">
+<h1>Shared Stories Lab </h1>
+<ul> 
+  <li> About Us
+  <li> Our Research
+  <li> Sponsors 
+  </ul>
+
+<p style="dodgerblue">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur metus metus, rhoncus non libero at, 
+scelerisque pretium sapien. Praesent ac turpis ac arcu placerat sodales quis sed mi. Fusce imperdiet erat
+vitae mi condimentum, at vulputate ipsum maximus. Etiam ut pretium tortor. Morbi quis egestas ex, id mattis arcu.
+Suspendisse nibh sapien, scelerisque et fringilla vel, viverra ut est. Pellentesque eget erat tellus. Quisque eros nibh,
+lacinia id tempus ut, cursus id sem. Maecenas facilisis erat eget leo congue accumsan. Mauris risus ex, dictum quis tincidunt in,
+mattis quis nulla. Quisq suscipit ante. </p>
+<iframe style="border:2px solid Tomato" width="560" height="315" src="https://www.youtube.com/embed/6ZwjdGSqO0k" frameborder="0" allow="accelerometer; autoplay; 
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+</html>
